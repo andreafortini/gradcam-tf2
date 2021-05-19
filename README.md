@@ -23,7 +23,7 @@ gc = Gradcam(model,
 
 gc.generate_stack_img(save_name="../output/example_out")
 ```
-![output image](https://github.com/andreafortini/gradcamtf/blob/master/output/example_out.png?raw=true)
+![output image](https://github.com/andreafortini/gradcam-tf2/blob/master/output/example_out.png?raw=true)
 
 ## Reference
 [[1]](https://arxiv.org/abs/1610.02391) Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization.
